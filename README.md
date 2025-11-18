@@ -14,8 +14,8 @@
 
 <td width="33%" align="center">
   <p align="center">
-    <a href="[URL_DEMO_O_README_CLASSCRFT]" title="Ver demo">
-      <img align="center" width="100%" src="[URL_IMAGEN_COVER_CLASSCRFT]" alt="Classcrft videojuego" />
+    <a href="[URL_DEMO_O_README_CLASSCRAFT]" title="Ver demo">
+      <img align="center" width="100%" src="[URL_IMAGEN_COVER_CLASSCRFT]" alt="Classcraft videojuego" />
     </a>
   </p>
   <p align="center">
