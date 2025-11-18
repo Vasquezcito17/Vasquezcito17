@@ -2,14 +2,14 @@
 <td width="33%" align="center">
   <p align="center">
     <a href="[URL_DEMO_O_README_BUTACA]" title="Ver demo">
-      <img align="center" width="100%" src="[URL_IMAGEN_COVER_BUTACA]" alt="La Butaca de Salchchom" />
+      <img align="center" width="100%" src="[URL_IMAGEN_COVER_BUTACA]" alt="La Butaca de Salchichom" />
     </a>
   </p>
   <p align="center">
     <a href="[URL_DEMO_O_README_BUTACA]" target="blank"><img align="center" src="https://img.shields.io/badge/Demo-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Demo" /></a>
     <a href="[URL_REPO_BUTACA]" target="blank"><img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="Repo" /></a>
   </p>
-  <p align="center"><i>La Butaca de Salchchom (cine)</i> — Gestión de butacas, reservas, UI responsive, persistencia local.</p>
+  <p align="center"><i>La Butaca de Salchichom (cine)</i> — Gestión de butacas, reservas, UI responsive, persistencia local.</p>
 </td>
 
 <td width="33%" align="center">
@@ -22,7 +22,7 @@
     <a href="[URL_DEMO_O_README_CLASSCRFT]" target="blank"><img align="center" src="https://img.shields.io/badge/Demo-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Demo" /></a>
     <a href="[URL_REPO_CLASSCRFT]" target="blank"><img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="Repo" /></a>
   </p>
-  <p align="center"><i>Classcrft (videojuego)</i> — Lógica de juego, estados, almacenamiento de progreso, UI dinámica.</p>
+  <p align="center"><i>Classcraft (videojuego)</i> — Lógica de juego, estados, almacenamiento de progreso, UI dinámica.</p>
 </td>
 </tr> </table> </div>
 <h2>GitHub :octocat:</h2> <p align="center"> <table align="left"> <tr border="none"> <td width="60%" align="center"> <img title="Streak" alt="streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Vasquezcito17&theme=dark&hide_border=false" /> </td> <td width="40%" align="center"> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vasquezcito17&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=8"/> </td> </tr> </table> <div align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source"> <img align="center" width="84%" src="https://github-profile-trophy.vercel.app/?username=Vasquezcito17&theme=radical&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" /> </a> </div> </p>
