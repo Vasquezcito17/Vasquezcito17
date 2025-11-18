@@ -118,7 +118,7 @@ Gracias por acompañarme en cada etapa de mi vida 💗✨
       <img width="100%" src="[URL_IMAGEN_COVER_CLASSCRFT]" alt="Classcraft" style="border-radius:10px;"/>
     </a>
     <p>
-      <a href="[URL_DEMO_O_README_CLASSCRFT]" target="_blank">
+      <a href="[URL_DEMO_O_README_CLASSCRAFT]" target="_blank">
         <img src="https://img.shields.io/badge/Demo-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
       </a>
       <a href="[URL_REPO_CLASSCRFT]" target="_blank">
